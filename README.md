@@ -14,4 +14,4 @@ Akash Bhandari - (akashbhandari@bennington.edu)
 ***
 ## Findings
 
-A brief description of the project, the methodology and the results are outlined in the <a href="https://github.com/akashbhandari/UTHSC--feature--engineering/blob/master/Update_SeniorWork_Poster.pdf"> poster </a>>. 
+A brief description of the project, the methodology and the results are outlined in the <a href="https://github.com/akashbhandari/UTHSC--feature--engineering/blob/master/Update_SeniorWork_Poster.pdf"> poster </a>. 

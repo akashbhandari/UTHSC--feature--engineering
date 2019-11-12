@@ -9,7 +9,7 @@ Python3 and libraries such as pandas, numpy, sklearn and tsfresh.
 ***
 ## Author
 
-[Akash Bhandari]: (akashbhandari@bennington.edu)
+Akash Bhandari - (akashbhandari@bennington.edu)
 
 ***
 ## Findings
